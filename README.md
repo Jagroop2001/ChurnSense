@@ -12,6 +12,16 @@ This interactive Churn Prediction & Retention Platform provides business stakeho
 - **Business Impact Measurement**: Quantifies the financial impact of retention initiatives
 - **Data-Driven Decision Support**: Empowers stakeholders with visual insights for strategic decision-making
 
+## Demo : 
+![image](https://github.com/user-attachments/assets/9a8a9aa7-bddf-471c-872a-d6a4b267d8d5)
+![image](https://github.com/user-attachments/assets/cb5af488-d463-462e-8f27-3e4fcfe2d918)
+![image](https://github.com/user-attachments/assets/20241e24-61b6-4154-8df6-a90f9569421a)
+![image](https://github.com/user-attachments/assets/982d88fd-80a3-4bcc-9021-9257f8d2c89a)
+![image](https://github.com/user-attachments/assets/a9b81f39-f776-4dc4-bf9d-046dd0c14ef5)
+![image](https://github.com/user-attachments/assets/8da8fbea-e993-4e8b-bf7b-2e15336c133b)
+
+
+
 ## Product Management Contributions
 
 As the Product Manager for this solution, I:
