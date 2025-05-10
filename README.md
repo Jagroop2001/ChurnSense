@@ -41,7 +41,7 @@ The platform is built with Python and Streamlit, featuring:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/Jagroop2001/ChurnSense.git
 cd customer-churn-platform
 ```
 
